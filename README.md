@@ -16,11 +16,13 @@ If you get an error about StatePointer when using Lua, run `haxelib remove linc_
 If you want video support on your mod, simply do `haxelib install hxCodec` on a Command prompt/PowerShell
 
 ## OS Engine Credits:
-* [weuz_](https://github.com/notweuz) - Coding
+* [SomeGuyWhoLikesFNF](https://github.com/SomeGuyWhoLovesCoding) - Owner
+* [weuz_](https://github.com/notweuz) - Former Owner/Coding
 * [nelifs](https://github.com/nelifs) - Coding and Design
 * [Cooljer](https://github.com/cooljer) - Arts
 
 ### OS Engine Special Thanks
+* [SomeGuyWholikesFNF](https://github.com/SomeGuyWhoLovesCoding) - Coded the New Icon bop
 * [jonnycat](https://github.com/McJonnycat) - Fixing bugs in Engine <3.
 * [Kade Engine](https://gamebanana.com/mods/44291) - Circle Note Skin
 
